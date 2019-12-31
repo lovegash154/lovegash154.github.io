@@ -1,0 +1,47 @@
+body>div {
+    text-align: center;
+}
+
+.jumbotron {
+    padding: 5px;
+}
+
+body>h4 {
+    text-align: center;
+    background-color: #b9bdbd;
+}
+
+#up1 {
+    padding-left: 34%;
+    padding-right: 34%;
+}
+
+#up2 {
+    padding-left: 34%;
+    padding-right: 34%;
+}
+
+#up3 {
+    padding-left: 34%;
+    padding-right: 34%;
+}
+
+#up4 {
+    padding-left: 34%;
+    padding-right: 34%;
+}
+
+#up5 {
+    padding-left: 34%;
+    padding-right: 34%;
+}
+
+#up6 {
+    padding-left: 34%;
+    padding-right: 34%;
+}
+
+#start {
+    padding-left: 24%;
+    padding-right: 24%;
+}
